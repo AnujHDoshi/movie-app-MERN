@@ -2,16 +2,16 @@
 
 ## Add Movie
 
-![Movie List](https://github.com/AnujHDoshi/movie-app-MERN-/blob/main/Screenshot/addMovies.PNG)
+![Movie List](https://github.com/AnujHDoshi/movie-app-MERN/blob/main/Screenshot/addMovies.PNG)
 
-## Movie List
+## Delete Movie
 
-![Movie List](https://github.com/AnujHDoshi/movie-app-MERN-/blob/main/Screenshot/deleteMovie.PNG)
+![Movie List](https://github.com/AnujHDoshi/movie-app-MERN/blob/main/Screenshot/deleteMovie.PNG)
 
 ## Search Movie
 
-![Movie List](https://github.com/AnujHDoshi/movie-app-MERN-/blob/main/Screenshot/searchmovie.PNG)
+![Movie List](https://github.com/AnujHDoshi/movie-app-MERN/blob/main/Screenshot/searchmovie.PNG)
 
 ## Movie List
 
-![Movie List](https://github.com/AnujHDoshi/movie-app-MERN-/blob/main/Screenshot/showMovie.PNG)
+![Movie List](https://github.com/AnujHDoshi/movie-app-MERN/blob/main/Screenshot/showMovie.PNG)
